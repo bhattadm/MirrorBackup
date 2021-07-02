@@ -1,10 +1,3 @@
 This is first line in file31
 this is part of branch test2
-SecretString:{
-    "env":{
-        "x": "gfbfjghdkj-jgbtjhnk",
-        "yPassword": "rbgktjhnthn-kytu",
-        "z": "gfbfjghdkj-jgbtjhnk",
-        "wPassword": "rbgktjhnthn-kytu",
-    }
-},
+secret_name:"Testing"
