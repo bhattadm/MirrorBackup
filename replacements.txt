@@ -1,0 +1,24 @@
+SecretString:{
+    "env":{
+        "a": "gfbfjghdkj-jgbtjhnk",
+        "bPassword": "rbgktjhnthn-kytu",
+        "f": "gfbfjghdkj-jgbtjhnk",
+        "gPassword": "rbgktjhnthn-kytu",
+    }
+}
+SecretString:{
+    "env1":{
+        "p": "gfbfjghdkj-jgbtjhnk",
+        "qPassword": "rbgktjhnthn-kytu",
+        "r": "gfbfjghdkj-jgbtjhnk",
+        "sPassword": "rbgktjhnthn-kytu",
+    }
+}
+SecretString:{
+    "env":{
+        "x": "gfbfjghdkj-jgbtjhnk",
+        "yPassword": "rbgktjhnthn-kytu",
+        "z": "gfbfjghdkj-jgbtjhnk",
+        "wPassword": "rbgktjhnthn-kytu",
+    }
+}

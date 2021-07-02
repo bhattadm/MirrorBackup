@@ -1,21 +1,21 @@
 This is first line in file11
 This is part of branch test1.
-***REMOVED***
-***REMOVED***
+SecretString:{
+    "env":{
         "a": "gfbfjghdkj-jgbtjhnk",
         "bPassword": "rbgktjhnthn-kytu",
         "f": "gfbfjghdkj-jgbtjhnk",
         "gPassword": "rbgktjhnthn-kytu",
-***REMOVED***
-***REMOVED***,
+    }
+},
 Lets do the final testing
 abcfgcvhkjtuiun,opkiplop
 vfghlbujn,;lukiuo
-***REMOVED***
+SecretString:{
     "env1":{
         "p": "gfbfjghdkj-jgbtjhnk",
         "qPassword": "rbgktjhnthn-kytu",
         "r": "gfbfjghdkj-jgbtjhnk",
         "sPassword": "rbgktjhnthn-kytu",
-***REMOVED***
-***REMOVED***,
+    }
+},
